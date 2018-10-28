@@ -1,6 +1,6 @@
 # Fill Object Tree
 
-This algo was made for better api versioning, so particles named version, model and method
+This algo was made for better api versioning, so particles named `version`, `model` and `method`
 
 Object tree where
 ```js
